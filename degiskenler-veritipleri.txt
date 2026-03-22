@@ -1,0 +1,21 @@
+isim ="Ahmet"
+yas =20
+ortalama =3.25
+ogrenci_mi =True
+
+print("İsim:", isim)
+print("Yaş:", yas)
+print("Ortalama:", ortalama)
+print("Öğrenci mi?", ogrenci_mi)
+
+
+
+- Değişken nedir? ==> Veriyi bellekte (RAM) tutmamızı sağlayan  farklı tiplerdeki (int, float,string, vb.) depolama alanlarıdır. 
+
+- String, int, float, bool farkı ==> 
+String: Birden fazla karakterin birleşiminden oluşan yazı tiplerini depolar.
+Int: Tamsayı değerlerini depolar.
+Float: Ondalıklı sayıları depolar.
+Bool: Mantıksal koşul döndürür.
+
+- `print()` ne yapıyor? ==> İçerisine yazılan veriyi konsola yazdırır.
